@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">45MinuteWorkout</string>
+    <string name="start">START</string>
+    <string name="workout_staring_image">Workout staring image</string>
+</resources>
